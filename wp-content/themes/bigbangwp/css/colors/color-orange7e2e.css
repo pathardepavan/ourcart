@@ -1,84 +1,84 @@
 input.submit, input.submit:focus, input.submit:active {
-	background: #f96e5b;
+	background: #45e1fd;
 }
 a { 
-	color: #f96e5b;
+	color: #45e1fd;
 }
 #primary-menu .current {
-	background-color: #f96e5b !important;
+	background-color: #45e1fd !important;
 }
-.fixed #primary-menu .current {	background-color: #f96e5b !important; }
+.fixed #primary-menu .current {	background-color: #45e1fd !important; }
 #footer a:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .tweets a:hover , #footer .tweets a:hover, .tweets .tweet_time a:hover, #footer .tweets .tweet_time a:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .photostream a:hover, #footer .photostream a:hover {
-	background-color: #f96e5b;
-	border: 1px solid #f96e5b;
+	background-color: #45e1fd;
+	border: 1px solid #45e1fd;
 }	
 .team-member-info .social-personal li a:hover {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .skills-graph li span {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .services div:hover, .services div:hover a {
-	background-color:#f96e5b; 
+	background-color:#45e1fd; 
 }
-.grey:hover { background-color:#f96e5b; }
+.grey:hover { background-color:#45e1fd; }
 .highlight1 {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .item-info-overlay {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .hexagon .item-info-overlay {
-    background-color: #f96e5b;
+    background-color: #45e1fd;
 }
 .circle .item-info-overlay {
-    background-color: #f96e5b;
+    background-color: #45e1fd;
 }
 .triangle .item-info-overlay {
-    background-color: #f96e5b;
+    background-color: #45e1fd;
 }
 ul.item-nav li:hover {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .contact-success {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .form .contact-error {
-    color: #f96e5b;
+    color: #45e1fd;
 }
 
-.flex-direction-nav li a:hover { background-color: #f96e5b; }
+.flex-direction-nav li a:hover { background-color: #45e1fd; }
 
 .widget a:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .widget ul#recentcomments a.author:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .post-title h2.title a:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .post-meta a:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .post-info div.date {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .comment .author a:hover {
-	color: #f96e5b;
+	color: #45e1fd;
 }
 .comment .comment-meta .reply:hover {
-	background-color:#f96e5b; 
+	background-color:#45e1fd; 
 }
 .wp-pagenavi span.current {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
 .tagcloud a:hover {
-	background-color: #f96e5b;
+	background-color: #45e1fd;
 }
